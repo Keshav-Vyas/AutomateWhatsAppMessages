@@ -22,7 +22,7 @@ Install pywhatkit library
   pip install pywhatkit
 ```
 
-Run the code
+Run the Program
 
 ```bash
   jupyter-notebook
